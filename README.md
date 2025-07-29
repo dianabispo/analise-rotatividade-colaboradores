@@ -25,7 +25,7 @@ O nome do arquivo utilizado foi: `collaborators_base.csv`.
 ## 📊 Visualizações
 
 - Cartões de Indicadores
-- Gráfico de Donut
+- Gráfico de Rosca
 - Gráfico de Barras
 - Gráfico de Dispersão
 - Matriz de Comparação
